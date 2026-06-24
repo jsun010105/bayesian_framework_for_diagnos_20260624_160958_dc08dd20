@@ -1,0 +1,14 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": false,
+      "completion_marker": null,
+      "outputs": {},
+      "log_file": "/workspaces/bayesian_framework_for_diagnos_20260624_160958_dc08dd20/logs/resource_finder_claude.log",
+      "transcript_file": "/workspaces/bayesian_framework_for_diagnos_20260624_160958_dc08dd20/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 4.042238235473633
+    }
+  },
+  "work_dir": "/workspaces/bayesian_framework_for_diagnos_20260624_160958_dc08dd20"
+}
